@@ -32,11 +32,4 @@ function getData() {
         subject,
         address
     }
-    console.log(data)
-
-    console.log(name)
-    console.log(email)
-    console.log(phone)
-    console.log(subject)
-    console.log(address)
 }
